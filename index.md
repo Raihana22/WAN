@@ -5,7 +5,11 @@
 ## Pengertian
 
 Jaringan Seluler adalah suatu teknologi yang memungkinkan pengiriman dan penerimaan data dalam bentuk paket data yang berkaitan dengan e-mail, data gambar, dan penelusuran internet.
-Jaringan Seluler terbagi menjadi 5. 1G 2G 3G 4G dan yang terbaru saat ini 5G. 1G 2G 3G 4G 5G adalah suatu perkembangan teknologi jaringan dari generasi ke generasi yang dimulai dari 
+Jaringan Seluler terbagi menjadi 5. 1G 2G 3G 4G dan yang terbaru saat ini 5G. 
+
+### Jaringan Seluler 1G 2G 3G 4G 5G
+
+1G 2G 3G 4G 5G adalah suatu perkembangan teknologi jaringan dari generasi ke generasi yang dimulai dari 
 tingkatan atau urutan 1 sampai 5 dan mungkin akan terus berkembang. G sendiri adalah sebuah singkatan dari Generation atau generasi. Setiap Generasi akan memiliki standar tertentu 
 yang harus di sesuaikan dengan standar jaringan telepon dan sistem telepon seluler pada saat itu. Setiap generasi pastinya akan selalu membawa frekuensi baru, kecepatan data yang 
 semakin tinggi, dan teknologi transmisi terbaru.

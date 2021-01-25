@@ -2,7 +2,9 @@
 
 # Jaringan Seluler
 
-## Pengertian
+## Pengenalan Jaringan Seluler
+
+### Pengertian
 
 Jaringan Seluler adalah suatu teknologi yang memungkinkan pengiriman dan penerimaan data dalam bentuk paket data yang berkaitan dengan e-mail, data gambar, dan penelusuran internet.
 Jaringan Seluler terbagi menjadi 5. 1G 2G 3G 4G dan yang terbaru saat ini 5G. 
@@ -14,6 +16,35 @@ tingkatan atau urutan 1 sampai 5 dan mungkin akan terus berkembang. G sendiri ad
 yang harus di sesuaikan dengan standar jaringan telepon dan sistem telepon seluler pada saat itu. Setiap generasi pastinya akan selalu membawa frekuensi baru, kecepatan data yang 
 semakin tinggi, dan teknologi transmisi terbaru.
 
+**Jaringan 1G**
+
+1G adalah generasi pertama dari teknologi seluler nirkabel (telekomunikasi seluler). Ini adalah standar telekomunikasi analog yang diperkenalkan pada 1980-an. 1G pada umumnya adalah 
+teknologi analog dan ponsel yang memiliki daya tahan baterai yang terbatas dan kualitas suara tanpa keamanan yang besar, dan kadang-kadang akan mengalami panggilan yang terputus.
+Kecepatan maksimal dari 1G yaitu 2.4 Kbps.
+
+**Jaringan 2G**
+
+2G adalah generasi ke dua, muncul pada tahun 1990-an yang menggabungkan sinyal digital ke dalam jaringan seluler. 2G adalah peralihan dari teknologi analog ke teknologi digital.
+2G juga memperkenalkan layanan data seluler yang aman dan mampu mengirimkan pesan teks (SMS) dan pesan multimedia (MMS) dengan kecepatan 50 kbps. 2G juga menerapkan konsep CDMA dan GSM.
+Perbedaan utama antara 1G dan 2G yaitu sinyal radio yang digunakan oleh jaringan 1G adalah analog, sedangkan jaringan 2G adalah digital.
+
+Pada generasi kedua juga dikembangkan menjadi 2,5G, yang biasa dikenal dengan sebutan GPRS. GPRS adalah singkatan dari General Packet Radio Service. Dengan kecepatan 56 kbps hingga 
+115 kbps. Kemampuannya telah dapat mengakses internet, mengirim email dan mengirim gambar(MMS), meski dengan kemampuan sangat terbatas.
+
+Selanjutnya dikenal dengan 2,75G atau sebutannya EDGE. EDGE adalah singkatan dari Enhanced Data Rates for GSM Evolution.Teknologi ini merupakan evolusi dari GSM, yang memiliki kecepatan 
+sebesar 3 kali lipat dari kecepatan GPRS. Sama dengan pendahulunya, pada 2,75G ini telah mampu digunakan untuk mengakses internet seperti keperluan email , MMS dan sebagainya.
+
+**Jaringan 3G**
+
+3G adalah generasi ke tiga yang menawarkan kecepatan transfer data yang lebih cepat dari 2G. 3G memiliki kecepatan transmisi yang berkisar antara 384 Kbps – 2 Mbps. Akses yang cepat 
+ini merupakan andalan dari 3G yang tentunya mampu memberikan fasilitas yang beragam pada pengguna seperti menonton video secara langsung dari internet atau berbicara dengan orang 
+lain menggunakan video.
+
+Setelah 3G, perkembangan koneksi data juga mengenal apa yang disebut dengan 3,5G atau 3G+ atau disebut dengan HSDPA. Peningkatan yang diberikan pada evolusi ini adalah kualitas 
+gambar atau tampilan yang lebih jernih dibandingkan 3G.
+
+Perkembangan generasi ketiga ini terus terjadi. Perkembangan selanjutnya disebut dengan  HSUPA dengan kecepatan hingga 5,76 MB/s, kemudian HSPA dan EVDO yang memiliki kecepatan 
+rata-rata 42 MB/s untuk pengunduhan dan 11 MB/s untuk pengunggahan.
 
 You can use the [editor on GitHub](https://github.com/Raihana22/WAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

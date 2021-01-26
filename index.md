@@ -61,6 +61,27 @@ Standar yang di tawarkan dari jaringan 4G adalah kecepatan akses searching, pela
 bahkan lebih. Nantinya penggunaan koneksi ini dapat dilakukan jika perangkat smartphone telah mendukung koneksi jaringan 5G dan segala persiapan teknis telah dilakukan.  5G sendiri telah 
 dicoba pada beberapa negara dan memberikan hasil yang memuaskan.
 
+# GSM
+
+## Pengertian Dari GSM
+
+GSM merupakan singkatan dari Global System for Mobile Communications. Jaringan GSM bisa diartikan sebagai sebuah teknologi komunikasi seluler yang bersifat digital. Teknologi GSM banyak 
+diterapkan pada komunikasi bergerak, khususnya telepon genggam.
+
+Teknologi ini memanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai ke tujuan. GSM pun kemudian dijadikan 
+sistem standar yang digunakan oleh sebagian besar jaringan telepon di seluruh dunia. Sistem yang menggunakan jaringan seluler berbasis di sekitar stasiun siaran atau teknologi satelit 
+yang terhubung ke sinyal dari orbit bisa menjadi bagian dari jaringan sistem.
+
+## Fungsi GSM
+
+Jaringan GSM memiliki fungsi utama yang salah satunya untuk memberikan fasilitas akses yang lebih mudah pada platform seluler dan satelit di seluruh jalur internasional menggunakan teknologi 
+digital, baik melalui suara ataupun saluran data dalam sistem. Saluran ini beroperasi pada jaringan generasi kedua (2G), tapi sudah banyak yang menggunakan jaringan generasi ketiga (3G) atau 
+yang lebih tinggi untuk menawarkan layanan yang memuaskan kepada pengguna.
+
+Jaringan GSM secara khusus telah berperan penting dalam membangun akses di seluruh dunia untuk layanan telepon darurat dengan menggunakan angka satu-satu dua (112) yang mengarahkan lalu lintas 
+telepon global untuk responden darurat di dekat pengguna. Jaringan ini juga berperan dalam membangun teknologi pesan teks selama tahun 1990-an.
+
+
 You can use the [editor on GitHub](https://github.com/Raihana22/WAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

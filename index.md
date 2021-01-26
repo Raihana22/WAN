@@ -46,6 +46,21 @@ gambar atau tampilan yang lebih jernih dibandingkan 3G.
 Perkembangan generasi ketiga ini terus terjadi. Perkembangan selanjutnya disebut dengan  HSUPA dengan kecepatan hingga 5,76 MB/s, kemudian HSPA dan EVDO yang memiliki kecepatan 
 rata-rata 42 MB/s untuk pengunduhan dan 11 MB/s untuk pengunggahan.
 
+**Jaringan 4G**
+
+4G adalah generasi ke empat yang telah mulai meningkatkan data bandwidth sekitar sepuluh kali lipat dari jaringan 3G. 4G atau yang lebih dikenal dengan sebutan 4G LTE (Long Term Evolution) 
+adalah teknologi yang sangat berbeda dibandingkan dengan 3G. 4G dihadirkan untuk menyediakan jaringan internet dengan kecepatan tinggi, kualitas tinggi dan kapasitas tinggi kepada 
+pengguna namun tetap menjaga tingkat keamanan, menurunkan biaya layanan suara dan data, multimedia dan internet melalui IP.
+
+Standar yang di tawarkan dari jaringan 4G adalah kecepatan akses searching, pelayanan games, video dengan kualitas tinggi, dan masih banyak lagi. Kecepatan maksimal jaringan 4G adalah 
+100 Mbps atau 1 Gbps.
+
+**Jaringan 5G**
+
+5G adalah generasi terkini dari perkembangan koneksi data yang saat ini masih dalam tahap pengembangan. Pada generasi kelima ini, kecepatan yang disediakan diklaim bisa mencapai 1 GB/s 
+bahkan lebih. Nantinya penggunaan koneksi ini dapat dilakukan jika perangkat smartphone telah mendukung koneksi jaringan 5G dan segala persiapan teknis telah dilakukan.  5G sendiri telah 
+dicoba pada beberapa negara dan memberikan hasil yang memuaskan.
+
 You can use the [editor on GitHub](https://github.com/Raihana22/WAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

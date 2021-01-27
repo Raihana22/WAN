@@ -81,6 +81,67 @@ yang lebih tinggi untuk menawarkan layanan yang memuaskan kepada pengguna.
 Jaringan GSM secara khusus telah berperan penting dalam membangun akses di seluruh dunia untuk layanan telepon darurat dengan menggunakan angka satu-satu dua (112) yang mengarahkan lalu lintas 
 telepon global untuk responden darurat di dekat pengguna. Jaringan ini juga berperan dalam membangun teknologi pesan teks selama tahun 1990-an.
 
+## Spesifikasi GSM
+
+Di Eropa, pada awalnya GSM didesain untuk beroperasi pada frekuensi 900 Mhz. Pada frekuensi ini, frekuensi uplinks-nya digunakan frekuensi 890–915 MHz, sedangkan frekuensi downlinksnya menggunakan 
+frekuensi 935–960 MHz. Bandwith yang digunakan adalah 25 Mhz (915–890 = 960–935 = 25 Mhz), dan lebar kanal sebesar 200 Khz. Dari keduanya, maka didapatkan 125 kanal, di mana 124 kanal digunakan 
+untuk suara dan satu kanal untuk sinyal. Pada perkembangannya, jumlah kanal 124 semakin tidak mencukupi dalam pemenuhan kebutuhan yang disebabkan pesatnya pertambahan jumlah pengguna. Untuk memenuhi 
+kebutuhan kanal yang lebih banyak, maka regulator GSM di Eropa mencoba menggunakan tambahan frekuensi untuk GSM pada band frekuensi di range 1800 Mhz dengan frekuensi 1710-1785 Mhz sebagai frekuensi 
+uplinks dan frekuensi 1805-1880 Mhz sebagai frekuensi downlinks. GSM dengan frekuensinya yang baru ini kemudian dikenal dengan sebutan GSM 1800, yang menyediakan bandwidth sebesar 75 Mhz 
+(1880-1805 = 1785–1710 = 75 Mhz). Dengan lebar kanal yang tetap sama yaitu 200 Khz sama, pada saat GSM pada frekuensi 900 Mhz, maka pada GSM 1800 ini akan tersedia sebanyak 375 kanal. Di Eropa, 
+standar-standar GSM kemudian juga digunakan untuk komunikasi railway, yang kemudian dikenal dengan nama GSM-R.
+
+## Kelebihan GSM
+
+GSM, sebagai sistem telekomunikasi seluler digital memiliki keunggulan yang jauh lebih banyak dibanding sistem analog, di antaranya:
+
+- Kapasitas sistem lebih besar, karena menggunakan teknologi digital di mana penggunaan sebuah kanal tidak hanya diperuntukkan bagi satu pengguna saja sehingga saat pengguna tidak mengirimkan informasi, 
+kanal dapat digunakan oleh pengguna lain.
+
+- Sifatnya yang sebagai standar internasional memungkinkan roaming mancanegara
+
+- Dengan teknologi digital, tidak hanya mengantarkan suara, tetapi memungkinkan servis lain seperti teks, gambar, dan video.
+
+- Harga lebih terjangkau
+
+- Mobile (dapat dibawa ke mana-mana)
+
+## Kekurangan GSM
+
+- Keamanan data yang masih kurang
+
+- Penggunaan Timeslot, yang membuat terkadang jaringan sering mengalami gangguan
+
+#CDMA
+
+## Pengertian Dari CDMA
+
+CDMA atau code division multiple access. teknologi CDMA pertama kali digunakan pada 
+saat meletusnya Perang Dunia II. Teknologi ini digunakan untuk menyulitkan tentara 
+Jerman dalam menangkap sinyal yang jelas dan lengkap.
+Dalam perkembangannya, CDMA digunakan dalam banyak sistem komunikasi termasuk pada 
+Global Positioning System (GPS) dan pada sistem satelit OmniTRACS untuk logistik transportasi.
+CDMA sendiri adalah metode pengaksesan chanel dengan menggunakan banyak frekuensi 
+radio telekomunikasi dan juga merupakan protokol data wireless. CDMA beroperasi pada 
+frekuensi 800 sampai 1900 MHz.
+
+## Sifat - Sifat CDMA
+
+- Kapasitas lebih tinggi
+
+- Peningkatan call security
+
+- Mereduksi derau dan interfensi lainnya
+
+- Efisiensi daya
+
+- Fasilitas koordinasi seluruh frekuensi
+
+- Integrasi layanan data, suara, dan video
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Raihana22/WAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

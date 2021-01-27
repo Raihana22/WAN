@@ -112,7 +112,7 @@ kanal dapat digunakan oleh pengguna lain.
 
 - Penggunaan Timeslot, yang membuat terkadang jaringan sering mengalami gangguan
 
-#CDMA
+# CDMA
 
 ## Pengertian Dari CDMA
 

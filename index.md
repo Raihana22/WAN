@@ -147,6 +147,78 @@ frekuensi 800 sampai 1900 MHz.
 
 - Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat
 
+## Kekurangan CDMA
+
+- Masih ada beberapa operator CDMA yang mengalami roaming
+
+- Kompatibiltas handheld yang terbatas
+
+- Coverage area yang tidak seluas GSM
+
+# Sistem Satelit
+
+## Pengertian
+
+Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu. Ada dua jenis satelit yakni satelit alam dan satelit buatan.
+
+- Satelit alami adalah benda-benda luar angkasa bukan buatan manusia yang mengorbit sebuah planet atau benda lain yang lebih besar daripada dirinya. Seperti misalnya 
+Bulan adalah satelit alami Bumi. Sebenarnya terminologi ini berlaku juga bagi planet yang mengelilingi sebuah bintang, atau bahkan sebuah bintang yang mengelilingi 
+pusat galaksi, tetapi jarang digunakan. Bumi sendiri sebenarnya merupakan satelit alami Matahari.
+
+- Satelit buatan adalah benda buatan manusia yang beredar mengelilingi benda lain misalnya satelit Palapa yang mengelilingi Bumi.
+
+## Sejarah Satelit
+
+Secara garis besar sejarah satelit dunia dari tahun ke tahun diantaranya:
+
+- 1945 : Athur Clarke menerbitkan essay tentang “Extra Terrestial Relays”
+
+- 1957 : Diluncurkan pertama kali satelit sputnik
+
+- 1959 : Satelit cuaca pertama, Vaguard 2
+
+- 1960 : Diluncurkan satelit komunikasi Refleksi ECHO
+
+- 1963 : Diluncurkan satelit komunikasi Geostasioner SYNCOM
+
+- 1965 : Komunikasi satelit Geostasioner komersial pertama di dunia, INTELSAT I
+
+- 1976 : Satelit marisat untuk komumnikasi maritim dan peluncuran PALAPA
+
+- 1982 : Sistem telepon dengan satelit mobile , INMARSAT 4
+
+- 1988 : Sistem satelit dengan komunikasi data dan telepon mobile, INMARSAT C
+
+- 1993 : Sistem telepon denga digital satelit
+
+- 1998 : Sistem satelit Global untuk Small Mobile Phones.
+
+- 1999 : Peluncuran Telkom – 1
+
+## Posisi Satelit
+
+Pengalokasian frekuensi untuk layanan satelit adalah proses yang sangat kompleks yang membutuhkan koordinasi dan perencanaan tingkat internasional. Hal ini dilakukan 
+dibawah pengawasan International Communication Union (ITU). Dalam hal perencanaan frekuensi ini (frequency planning), dunia dibagi menjadi 3, yaitu:
+
+- kawasan 1: Eropa, Afrika, Rusia (dulu masih Soviet) dan Mongolia
+
+- kawasan 2: Amerika Utara dan Selatan, Greenland
+
+- kawasan 3: Asia (diluar daerah 1), Australia dan Pasifik Barat Daya
+
+Dalam tiap kawasan, frekuensi dialokasikan untuk berbagai macam layanan satelit, walaupun frekuensi tersebut dipakai untuk layanan yang berbeda di kawasan lain. 
+Beberapa layanan satelit adalah sebagai berikut:
+
+- Fixed satellite service (FSS)
+
+- Broadcasting Satellite Service (BSS)
+
+- Mobile Satellite Service
+
+- Navigational Satellite Service Navigational satellite service melayani global positioning system (GPS)
+
+- Meteorological Satellite Service.
+
 
 
 

@@ -139,6 +139,14 @@ frekuensi 800 sampai 1900 MHz.
 
 - Integrasi layanan data, suara, dan video
 
+## Kelebihan CDMA
+
+- Menggunakan metode encripsi dengan kode unik untuk proses komunikasi sehingga lebih aman
+
+- Memiliki harga yang jauh lebih murah di bandingkan GSM
+
+- Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat
+
 
 
 

@@ -267,7 +267,6 @@ Yang memiliki kecepatan akses yanh tinggi dengan jangkauan yang luas.
 
 - Wimax merupakan penggabungan antara 2 standart :
  1. IEEE 802.16 (Institute Ot Electrical and Electronics Engineering). Digunakan secara luas di negeri asalnya : Amerika
-
  2. ETSI HiperMAN (European Telecomunicarions Standards Institute HiperMan) Digunakan secara luas di eropa dan sekitarnya.
 
 - Penggabungan kedua standard tersebut bertujuan agar dapat di gunakan secara global yang dengan memiliki spesifikasi yang cocok dengan koneksi berjenis broadband (BWA)

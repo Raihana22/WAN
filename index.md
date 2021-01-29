@@ -287,44 +287,41 @@ data 54 Mbps dalam kondisi optimal. Sementara itu WiMAX dirancang mampu sampai 7
 
 ## Pengertian
 
+Antena adalah salah satu elemen penting yang harus ada pada sebuah teleskop radio, TV, radar, dan semua alat komunikasi nirkabel lainnya. Sebuah antena adalah bagian vital dari 
+suatu pemancar atau penerima yang berfungsi untuk menyalurkan sinyal radio ke udara. Antena juga tergolong sebagai Transduser karena dapat mengubah suatu bentuk energi ke bentuk energi lainnya. 
+
+## Cara Kerja Antena
+
+Pada umumnya Antena terdiri dari elemen atau susunan bahan logam yang terhubung dengan saluran Transmisi dari pemancar maupun penerima yang berkaitan dengan gelombang elektromagnetik.
+contoh pada sebuah Stasiun Pemancar Radio yang ingin memancarkan programnya, pertama kali stasiun pemancar tersebut harus merekam musik atau menangkap suara si pembicara melalui Mikropon 
+yang dapat mengubah suara menjadi sinyal listrik. Sinyal listrik tersebut akan masuk ke rangkaian pemancar untuk dimodulasi dan diperkuat sinyal RF-nya. Dari Rangkaian Pemancar Radio tersebut, 
+sinyal listrik akan mengalir ke sepanjang kabel transmisi antena hingga mencapai Antenanya. Elektron yang terdapat dalam sinyal listrik tersebut bergerak naik dan turun (bolak-balik) sehingga 
+menciptakan radiasi elektromagnetik dalam bentuk gelombang radio. Gelombang yang menyertakan program radio tersebut kemudian akan dipancarkan dan melakukan perjalanan secepat kecepatan cahaya. 
+Pada saat ada orang mengaktifkan radionya sesuai dengan frekuensi pemancar  di jarak beberapa kilometer kemudian, gelombang radio yang dikirimkan tersebut akan  mengalir melalui Antena dan 
+menyebabkan elektron bergerak naik dan turun (bolak-balik) pada Antena yang bersangkutan sehingga menimbulkan energi listrik. Energi listrik ini kemudian diteruskan ke rangkaian penerima 
+radio sehingga kita dapat mendengarkan berbagai program dari Stasiun Radio.
+
+## Karakteristik Kinerja Antena
+
+Empat Karakteristik atau Parameter Kinerja Antena tersebut diantaranya adalah sebagai berikut :
+
+- Pola Radiasi Antena (Radiation Pattern). adalah penggambaran radiasi yang berkaitan dengan kekuatan gelombang radio yang dipancarkan oleh antenna ataupun tingkat penerimaan sinyal yang 
+diterima oleh antenna pada sudut yang berbeda. Pada umumnya Pola Radiasi ini digambarkan dalam bentuk plot 3 dimensi. Pola radiasi antenna 3 dimensi ini dibentuk oleh dua pola radiasi yaitu 
+pola elevasi dan pola azimuth. Bentuk pola radiasi adalah Pola Omnidirectional pattern yaitu pola radiasi yang serba sama dalam satu bidang radiasi dan Pola Drective yang membentuk bola berkas 
+yang sempit dengan radiasi yang tinggi.
+
+- Keterarahan (Directivity). adalah perbandingan antara dentisitas daya antenna pada jarak sebuah titik tertentu relatif terhadap sebuah radiator isotropis. Yang dimaksud dengan Radiator 
+Isotropis adalah pemancaran radiasi Antena secara seragam ke semua arah.
+
+-Gain atau sering juga disebut dengan Directivity Gain adalah sebuah parameter Antena yang mengukur kemampuan antena dalam mengarahkan radiasi sinyalnya atau penerimaan sinyal dari arah tertentu. 
+Dengan kata lain, Gain digunakan untuk mengukur efisiensi sebuah Antena. Gain diukur dalam bentuk satuan decibel.
+
+- Polarisasi (Polarization). dapat diartikan sebagai arah rambat dari medan listrik atau penyebaran vektor medan listrik. Polarisasi Antena yang dimaksud disini adalah orientasi medan listrik 
+dari gelombang radio yang berhubungan dengan permukaan bumi dan kecocokan struktur fisik antena dengan orientasinya. Mengenali Polarisasi bermanfaat untuk mendapatkan efisiensi maksimum pada 
+transmisi sinyal.
 
 
 
 
 
-
-You can use the [editor on GitHub](https://github.com/Raihana22/WAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Raihana22/WAN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Berikut Rangkuman pelajaran semester 3. Lebih dan kurangnya saya mohon maaf. Atas perhatiannya saya ucapkan terima kasih.

@@ -219,6 +219,77 @@ Beberapa layanan satelit adalah sebagai berikut:
 
 - Meteorological Satellite Service.
 
+## Cara Kerja Satelit
+
+Prinsip kerja dari satelit hampir sama dengan suatu rangkaian repeater yaitu jenis ” RF Heterodyne Repeater ” : 
+SINYAL 6 GHZ. SINYAL 6 GHZ – FILTER – SWTCH – PENGUAT 6 GHZ – DITURUNKAN MENJADI 4 GHZ – HYBRID CIRCULATOR – FILTER – PENGUAT AKHIR – PANCARAN KE BUMI.
+
+# GPS
+
+## Pengertian
+
+GPS atau Global Positoning System adalah sistem yang memungkinkan kita menentukan lokasi secara akirat menggunakan satelit, yang di ciptakan oleh Amerika
+Serikat. Rusia (GLONASS) DAN China (BeiDou) pun memiliki solusi penentu lokasi yanh seru
+
+## Kemapuan Satelit Global Positoning System (GPS)
+
+- Sistem satelit navigasi dan penentuan posisi
+
+- Didesain untuk memberikan informasi tentang posisi
+
+- Cakupan seluruh dunia
+
+- Beroperasi secara kontinyu
+
+- Tidak tergantung cuaca
+
+- Dapat digunakan oleh banyak orang pada saat yang bersamaan
+
+- Sistem militer yang dimiliki dan dikelola oleh Dept. Pertahanan Amerika Serikat
+
+- Prinsip dasar penetuan posisi adalah reseksi (Pengikat ke belakang) dengan jarak, yaitu dengan mengukur jarak ke beberapa Satelit sekaligus.
+
+## Cara Kerja GPS
+
+Satelit GPS mengelilingi Bumi dua kali sehari dalam orbit yang tepat. Setiap satelit mengirimkan sinyal unik dan parameter orbital yang memungkinkan perangkat GPS 
+untuk memecahkan kode dan menghitung lokasi tepat dari satelit. Penerima GPS menggunakan informasi dan trilaterasi ini untuk menghitung lokasi pasti pengguna. 
+Pada dasarnya, penerima GPS mengukur jarak ke masing-masing satelit dengan jumlah waktu yang diperlukan untuk menerima sinyal yang dikirimkan. 
+
+# WIMAX
+
+## Pengertian
+
+Wimax adalah singkatan dari Worldwide Interaperability For Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau di singkat BWA)
+Yang memiliki kecepatan akses yanh tinggi dengan jangkauan yang luas.
+
+
+## Perbedaan Standar Wifi dan Wimax
+
+- Wimax merupakan penggabungan antara 2 standart :
+ 1. IEEE 802.16 (Institute Ot Electrical and Electronics Engineering). Digunakan secara luas di negeri asalnya : Amerika
+
+ 2. ETSI HiperMAN (European Telecomunicarions Standards Institute HiperMan) Digunakan secara luas di eropa dan sekitarnya.
+
+- Penggabungan kedua standard tersebut bertujuan agar dapat di gunakan secara global yang dengan memiliki spesifikasi yang cocok dengan koneksi berjenis broadband (BWA)
+
+- Spektrum frekuensi Wimax dalam certification profile:
+ 
+ 1. Licensed Band : membutuhkan lisensi atau otoritas regulator
+
+ 2. Unlicensed Band : Tidak membutuhkan lisensi dalam penggunaannya memungkinkan setiap orang menggunakan frekuensi secara bebas di semua area
+
+
+## Cara Kerja WiMAX
+
+Prinsip kerja WiMAX sama dengan WiFi. Sebuah komputer dengan fasilitas WiMAX akan dapat menerima dari stasiun pengirim WiMAX. Bedanya, WiFi sampai saat ini mampu mengirim 
+data 54 Mbps dalam kondisi optimal. Sementara itu WiMAX dirancang mampu sampai 70 Mbps.
+
+# ANTENA
+
+## Pengertian
+
+
+
 
 
 
